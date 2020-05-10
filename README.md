@@ -1,4 +1,4 @@
-# What we will learn in Makrdown tut
+# What we will learn in Makrdown tutorial
 
 ## Topics
 
